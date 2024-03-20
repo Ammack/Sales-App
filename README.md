@@ -2,6 +2,9 @@
 
 Welcome to the Sales Analysis App your go-to tool for gaining valuable insights into your sales data! Whether you're a business owner, sales manager, or analyst, this app empowers you to make informed decisions, optimize strategies, and drive business growth.
 
+Video Demo of the Sales App: [Video Demo](https://youtu.be/UHZhw9GVo2E)
+
+
 Key Features:
 1. Data Upload:
 Effortlessly upload your sales data in CSV format using the sidebar.
