@@ -13,7 +13,7 @@ Explore the fundamental aspects of your sales data and a sneak peek of the uploa
 Visualize your sales data dynamically with interactive plots. The app utilizes Plotly Express to create engaging visualizations, allowing you to compare predictions and actual sales over time. Dive into trends, patterns, and performance metrics effortlessly.
 
 4. Sales Forecast:
-Beyond the provided features, this app also allows you to forecast sales for the upcoming months. The app utilizes the SARIMAX model to predict future sales based on historical data. The model is trained on the uploaded data and can be used to forecast sales for the next 12 months."""
+Beyond the provided features, this app also allows you to forecast sales for the upcoming months. The app utilizes the SARIMAX model to predict future sales based on historical data. The model is trained on the uploaded data and can be used to forecast sales for the next 12 months.
 
 
 
