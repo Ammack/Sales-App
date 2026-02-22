@@ -2,7 +2,7 @@
 
 Welcome to the Sales Analysis App your go-to tool for gaining valuable insights into your sales data! Whether you're a business owner, sales manager, or analyst, this app empowers you to make informed decisions, optimize strategies, and drive business growth.
 
-Video Demo of the Sales App: [Demo Video](https://youtu.be/UHZhw9GVo2E)  |  [Website](https://sales-analysis-app.streamlit.app/)
+Video Demo of the Sales App: [Demo Video](https://youtu.be/UHZhw9GVo2E)  |  [Website](https://sales-app-724p8jjqerlqyhf9tpay5t.streamlit.app/)
 
 Key Features:
 1. Data Upload:
@@ -22,3 +22,4 @@ Beyond the provided features, this app also allows you to forecast sales for the
 Home is the landing page of the website
 
 The pages folder contains the other pages directed from the Home page
+
