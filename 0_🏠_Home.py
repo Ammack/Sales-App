@@ -104,5 +104,7 @@ if file is not None:
     df = pd.read_csv(BytesIO(file.getvalue()))
     if st.checkbox("Display uploaded data"):
         st.dataframe(df)
+
+# adding this line after 2 years to do a commit
     
 
